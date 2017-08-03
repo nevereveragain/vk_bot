@@ -3,7 +3,7 @@ from command_system import user_command, Response
 
 @user_command
 class Hello:
-    keys = ['привет', 'hello', 'дратути', 'здравствуй', 'здравствуйте']
+    keys = ['привет', 'hello', 'дратути', 'здравствуй', 'здравствуйте', 'hi!']
 
     @classmethod
     def process(cls, text):
