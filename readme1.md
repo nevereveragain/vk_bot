@@ -1,0 +1,1 @@
+# just another simple vk_bot

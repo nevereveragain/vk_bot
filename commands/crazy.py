@@ -3,7 +3,7 @@ from command_system import user_command, Response
 
 @user_command
 class Crazy:
-    keys = ['крейзи', 'крейзи пицца', 'удиви меня', 'необычное']
+    keys = ['крейзи', 'крейзи пицца', 'удиви меня', 'необычное', 'кислая']
 
     @classmethod
     def process(cls, text):
